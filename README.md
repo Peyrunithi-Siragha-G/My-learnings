@@ -1,3 +1,3 @@
-# Power-BI-project
-This project deals with visualization of data. I've created an interactive dashboard using Power BI
-The data was about the survey taken by numerous people of different countries initially after cleaning the data I've used some visualizations and tools to create a dashboard that is interactive and engaging.
+This section includes various techniques that i have learnt and that i have implemented them to test my skills.
+I have tried learning python packages and implemented few of them.
+I had fun learning Power BI and creating intreactive dashboards.
